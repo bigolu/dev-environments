@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-ln -sf ../../../settings.json ./.git/settings.json
-ln -sf ../../../../exclude ./.git/info/exclude
-
