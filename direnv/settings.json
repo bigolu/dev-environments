@@ -3,4 +3,5 @@
   // environment. This way the other extensions will have the environment as well.
   "direnv.restart.automatic": true,
   "go.lintOnSave": "off",
+  "editor.formatOnSave": false,
 }
